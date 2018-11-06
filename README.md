@@ -2,7 +2,7 @@
 
 > Get quotes and create shipments from your Node.js applications
 
-[![npm](https://img.shields.io/npm/v/jimlambie/parcelmonkey.svg?maxAge=10800&style=flat-square)](https://www.npmjs.com/package/jimlambie/parcelmonkey)
+[![npm](https://img.shields.io/npm/v/parcelmonkey.svg?maxAge=10800&style=flat-square)](https://www.npmjs.com/package/parcelmonkey)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
 
